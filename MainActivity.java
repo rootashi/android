@@ -1,4 +1,4 @@
-package com.money.appbucks.activity;
+package com.pro.readme.activity;
 
 import com.appmediation.sdk.AMBanner;
 import com.appmediation.sdk.AMInterstitial;
@@ -14,8 +14,8 @@ import com.pro.readme.widget.SwipeableViewPager;
 import com.pro.readme.widget.webview.WebToAppWebClient;
 import com.tjeannin.apprate.AppRate;
 
-import com.money.appbucks.adapter.NavigationAdapter;
-import com.money.appbucks.fragment.WebFragment;
+import com.pro.readme.adapter.NavigationAdapter;
+import com.pro.readme.fragment.WebFragment;
 
 import android.animation.Animator;
 import android.animation.AnimatorSet;
